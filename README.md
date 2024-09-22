@@ -16,10 +16,6 @@ GPU Image Filter
 ### 2. **Retro**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     1.0f, 0.0f, 0.0f, 0.0f,
     0.0f, 1.0f, 0.2f, 0.0f,
@@ -33,10 +29,6 @@ floatArrayOf(
 ### 3. **Just**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     0.4f, 0.6f, 0.5f, 0.0f,
     0.0f, 0.4f, 1.0f, 0.0f,
@@ -50,10 +42,6 @@ floatArrayOf(
 ### 4. **Hume**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     1.25f, 0.0f, 0.2f, 0.0f,
     0.0f, 1.0f, 0.2f, 0.0f,
@@ -67,10 +55,6 @@ floatArrayOf(
 ### 5. **Desert**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     0.6f, 0.4f, 0.2f, 0.05f,
     0.0f, 0.8f, 0.3f, 0.05f,
@@ -84,10 +68,6 @@ floatArrayOf(
 ### 6. **Old Times**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     1.0f, 0.05f, 0.0f, 0.0f,
     -0.2f, 1.1f, -0.2f, 0.11f,
@@ -101,10 +81,6 @@ floatArrayOf(
 ### 7. **Limo**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     1.0f, 0.0f, 0.08f, 0.0f,
     0.4f, 1.0f, 0.0f, 0.0f,
@@ -123,10 +99,6 @@ floatArrayOf(
 ### 9. **Solar**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     1.5f, 0f, 0f, 0f,
     0f, 1f, 0f, 0f,
@@ -145,10 +117,6 @@ floatArrayOf(
 ### 11. **Neutron**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     0f, 1f, 0f, 0f,
     0f, 1f, 0f, 0f,
@@ -167,10 +135,6 @@ floatArrayOf(
 ### 13. **Milk**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     0.0f, 1.0f, 0.0f, 0.0f,
     0.0f, 1.0f, 0.0f, 0.0f,
@@ -184,10 +148,6 @@ floatArrayOf(
 ### 14. **BW (Black & White)**
 
 ```
-kotlin
-
-
-코드 복사
 floatArrayOf(
     0.0f, 1.0f, 0.0f, 0.0f,
     0.0f, 1.0f, 0.0f, 0.0f,
